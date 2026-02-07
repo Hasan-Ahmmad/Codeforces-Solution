@@ -12,7 +12,7 @@ bool Prime(int n)
     }
     return true;
 }
- 
+
 int main()
 {
     FASTIO;
